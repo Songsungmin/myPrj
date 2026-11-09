@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Next.js build output
+.next/
+*/.next/
+out/
+*/out/
+
+# Production build artifacts
+build/
+dist/
+
+# Debug and Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Environment variables
+.env
+.env*.local
+
+# Backups and temporary files
+*.bak
+.cache/
+
+# OS metadata
+Thumbs.db
+.DS_Store
